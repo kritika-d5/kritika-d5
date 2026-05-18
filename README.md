@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Kritika%20Dubey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Devr&descAlignY=55&descSize=16&descColor=fff" />
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/r8qEfFn85EYAAAAj/cat-cats.gif" width="200">
+  <img src="https://media.tenor.com/r8qEfFn85EYAAAAj/cat-cats.gif" width="100">
 </p>
 
 ## About me 🎓
