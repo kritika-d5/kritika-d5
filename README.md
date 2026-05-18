@@ -2,8 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Kritika%20Dubey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Devr&descAlignY=55&descSize=16&descColor=fff" />
 </p>
+<p align="center">
+  <img src="https://media.tenor.com/r8qEfFn85EYAAAAj/cat-cats.gif" width="200">
+</p>
 
-## about me 🎓
+## About me 🎓
 
 ```json
 {
@@ -16,12 +19,12 @@
 }
 ```
 ---
-## currently exploring 🧩
+## Currently exploring 🧩
 
-**rag for legal documents**
+**RAG for legal documents**
 > Working on an AI system that automates FIR drafting and surfaces legal precedents - exploring chunking strategies, semantic retrieval, and citation-aware generation over legal corpora.
 
-**machine Learning - going deeper**
+**Machine Learning - going deeper**
 > Studying classical ML algorithms, ensemble methods, and when to reach for a neural net.
 
 <!-- **GSSoC (GirlScript Summer of Code)**
@@ -29,7 +32,7 @@
 -->
 ---
 
-## skills ⚙️
+## Skills ⚙️
 
 **languages**
 
@@ -70,7 +73,7 @@
 
 ---
 
-## experience 💼 
+## Experience 💼 
 
 **Full Stack Dev Intern — Brained** &nbsp;`Dec '25 – Jan '26`
 > Built a production-ready observability platform with Prometheus, Loki & customizable dashboards.
@@ -83,7 +86,7 @@
 
 ---
 
-## github stats 📊 
+## GitHub stats 📊 
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=kritika-d5&cc=000&tc=fff&ic=fff&bc=000" />
@@ -91,15 +94,11 @@
 
 ---
 
-## connect with me 🐱‍💻
+## Connect with me 🐱‍💻
 
 <p>
   <a href="https://linkedin.com/in/kritika-dubey-728856297">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kritika-d5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:kritikadubey2005@gmail.com">
