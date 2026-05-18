@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kritika%20Dubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack%20Dev&descAlignY=55&descSize=16" />
 </p>
 
-## 🎓 About Me
+## about me 🎓
 
 ```json
 {
@@ -15,7 +15,7 @@
 }
 ```
 ---
-## 🚀 Currently Exploring
+## currently exploring 🧩
 
 **RAG for Legal Documents**
 > Building an AI system that automates FIR drafting and surfaces legal precedents - exploring chunking strategies, semantic retrieval, and citation-aware generation over legal corpora.
@@ -28,9 +28,9 @@
 -->
 ---
 
-## 🛠 Skills
+## skills ⚙️
 
-**Languages**
+**languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -48,7 +48,7 @@
 ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-E53935?style=flat-square&logoColor=white)
 ![SMOTE](https://img.shields.io/badge/SMOTE-43A047?style=flat-square&logoColor=white)
 
-**Backend & Databases**
+**backend & databases**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logoColor=white)
@@ -58,7 +58,7 @@
 ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Atlas Vector DB](https://img.shields.io/badge/Atlas%20Vector%20DB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Frontend & Infra**
+**frontend & infra**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=flat-square&logoColor=white)
@@ -69,7 +69,7 @@
 
 ---
 
-## 💼 Experience
+## 💼 experience
 
 **Full Stack Dev Intern — Brained** &nbsp;`Dec '25 – Jan '26`
 > Built a production-ready observability platform with Prometheus, Loki & customizable dashboards.
@@ -82,7 +82,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 gitHub stats
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=kritika-d5&cc=000&tc=fff&ic=fff&bc=000" />
@@ -90,7 +90,7 @@
 
 ---
 
-## 📫 Connect
+## connect with me 🐱‍💻
 
 <p>
   <a href="https://linkedin.com/in/kritika-dubey-728856297">
