@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kritika%20Dubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack%20Dev%20%C2%B7%20Deep%20Learning%20Researcher&descAlignY=55&descSize=16" />
-</p>
-
-<h1 align="center">Hi, I'm Kritika Dubey </h1>
-
-<p align="center">
-  <em>Student &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Full Stack Dev </em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kritika%20Dubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack%20Dev&descAlignY=55&descSize=16" />
 </p>
 
 ---
