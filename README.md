@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kritika%20Dubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack%20Dev&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Kritika%20Dubey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Devr&descAlignY=55&descSize=16&descColor=fff" />
 </p>
 
 ## about me 🎓
