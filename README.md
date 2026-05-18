@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kritika%20Dubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack%20Dev&descAlignY=55&descSize=16" />
 </p>
-
-## about me 🎓
+##about me 🎓
 
 ```json
 {
@@ -15,12 +14,12 @@
 }
 ```
 ---
-## currently exploring 🧩
+##currently exploring 🧩
 
-**RAG for Legal Documents**
-> Building an AI system that automates FIR drafting and surfaces legal precedents - exploring chunking strategies, semantic retrieval, and citation-aware generation over legal corpora.
+**rag for legal documents**
+> Working on an AI system that automates FIR drafting and surfaces legal precedents - exploring chunking strategies, semantic retrieval, and citation-aware generation over legal corpora.
 
-**Machine Learning - going deeper**
+**machine Learning - going deeper**
 > Studying classical ML algorithms, ensemble methods, and when to reach for a neural net.
 
 <!-- **GSSoC (GirlScript Summer of Code)**
@@ -28,7 +27,7 @@
 -->
 ---
 
-## skills ⚙️
+##skills ⚙️
 
 **languages**
 
@@ -69,7 +68,7 @@
 
 ---
 
-## 💼 experience
+##experience 💼 
 
 **Full Stack Dev Intern — Brained** &nbsp;`Dec '25 – Jan '26`
 > Built a production-ready observability platform with Prometheus, Loki & customizable dashboards.
@@ -82,7 +81,7 @@
 
 ---
 
-## 📊 gitHub stats
+## 📊 github stats
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=kritika-d5&cc=000&tc=fff&ic=fff&bc=000" />
