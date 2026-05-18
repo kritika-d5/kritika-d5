@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kritika%20Dubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack%20Dev&descAlignY=55&descSize=16" />
 </p>
-##about me 🎓
+## about me 🎓
 
 ```json
 {
@@ -14,7 +14,7 @@
 }
 ```
 ---
-##currently exploring 🧩
+## currently exploring 🧩
 
 **rag for legal documents**
 > Working on an AI system that automates FIR drafting and surfaces legal precedents - exploring chunking strategies, semantic retrieval, and citation-aware generation over legal corpora.
@@ -27,7 +27,7 @@
 -->
 ---
 
-##skills ⚙️
+## skills ⚙️
 
 **languages**
 
@@ -36,7 +36,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**AI / ML**
+**ai / ml**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -68,7 +68,7 @@
 
 ---
 
-##experience 💼 
+## experience 💼 
 
 **Full Stack Dev Intern — Brained** &nbsp;`Dec '25 – Jan '26`
 > Built a production-ready observability platform with Prometheus, Loki & customizable dashboards.
@@ -81,7 +81,7 @@
 
 ---
 
-## 📊 github stats
+## github stats 📊 
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=kritika-d5&cc=000&tc=fff&ic=fff&bc=000" />
