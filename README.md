@@ -27,9 +27,8 @@
 **Machine Learning - going deeper**
 > Studying classical ML algorithms, ensemble methods, and when to reach for a neural net.
 
-<!-- **GSSoC (GirlScript Summer of Code)**
+**GSSoC'26 (GirlScript Summer of Code)**
 > Active open source contributor.
--->
 ---
 
 ## Skills ⚙️
