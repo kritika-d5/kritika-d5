@@ -85,10 +85,9 @@
 
 ---
 
-## GitHub stats 📊 
-
+## GitHub stats 📊
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=kritika-d5&cc=000&tc=fff&ic=fff&bc=000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritika-d5&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </p>
 
 ---
