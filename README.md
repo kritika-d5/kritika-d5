@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Kritika%20Dubey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Dev&descAlignY=55&descSize=16&descColor=fff" />
 </p>
-<p align="center">
-  <img src="https://media.tenor.com/r8qEfFn85EYAAAAj/cat-cats.gif" width="100">
-</p>
+
 
 ## About me 🎓
 
@@ -102,6 +100,10 @@
   <a href="mailto:kritikadubey2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kritikadubey2005@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/r8qEfFn85EYAAAAj/cat-cats.gif" width="100">
 </p>
 
 <p align="center">
