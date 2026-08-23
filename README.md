@@ -18,52 +18,6 @@
 **RAG for legal documents**
 > Working on an AI system that automates FIR drafting and surfaces legal precedents - exploring chunking strategies, semantic retrieval, and citation-aware generation over legal corpora.
 
-**Machine Learning - going deeper**
-> Studying classical ML algorithms, ensemble methods, and when to reach for a neural net.
-
-**GSSoC'26 (GirlScript Summer of Code)**
-> Active open source contributor.
----
-
-## Skills ⚙️
-
-**languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**ai / ml**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00897B?style=flat-square&logoColor=white)
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FFB300?style=flat-square&logoColor=white)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-E53935?style=flat-square&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-43A047?style=flat-square&logoColor=white)
-
-**backend & databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Atlas Vector DB](https://img.shields.io/badge/Atlas%20Vector%20DB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**frontend & infra**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki%2FPromtail-F5A623?style=flat-square&logo=grafana&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
 ---
 
 ## Experience 💼 
